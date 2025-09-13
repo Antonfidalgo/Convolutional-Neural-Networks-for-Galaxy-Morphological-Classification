@@ -1,0 +1,16 @@
+# Data manipulation and visualization
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scipy
+
+# Progress bar
+tqdm
+
+# Deep learning (TensorFlow + Keras)
+tensorflow
+
+# Machine learning utilities
+scikit-learn
