@@ -146,11 +146,17 @@ If you use this work, please cite:
 ## 👤 Author
 
 **Antón Fidalgo Pérez**
+
 Mathematician & Data Analyst
+
 Vrije Universiteit Amsterdam
+
 Inditex Netherlands
+
 📧 antonfidalgoperez@gmail.com
-💼 www.linkedin.com/in/antonfidalgo
-🔗 [Your GitHub Profile](https://github.com/Antonfidalgo)
+
+💼 [LinkedIn Profile](www.linkedin.com/in/antonfidalgo)
+
+🔗 [GitHub Profile](https://github.com/Antonfidalgo)
 
 ```
