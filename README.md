@@ -140,6 +140,12 @@ If you use this work, please cite:
   url={https://github.com/Antonfidalgo/Convolutional-Neural-Networks-for-Galaxy-Morphological-Classification}
 }
 ```
+---
+
+## 📜 License
+
+* **Code**: MIT License — see [`LICENSE`](./LICENSE)
+* **Thesis (PDF)**: CC BY-NC 4.0 (Non-Commercial, Attribution required)
 
 ---
 
