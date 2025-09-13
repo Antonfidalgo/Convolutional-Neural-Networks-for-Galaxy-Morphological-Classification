@@ -155,7 +155,7 @@ Inditex Netherlands
 
 📧 antonfidalgoperez@gmail.com
 
-💼 [LinkedIn Profile](www.linkedin.com/in/antonfidalgo)
+💼 [LinkedIn Profile](https://www.linkedin.com/in/antonfidalgo)
 
 🔗 [GitHub Profile](https://github.com/Antonfidalgo)
 
