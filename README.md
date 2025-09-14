@@ -110,38 +110,33 @@ scikit-learn
 
 ## 🖼 Visualizations
 
-### CNN Model Architecture
-![CNN Model](./Images/CNN%20Model.png)
-
 ### Galaxy Samples
+Example inputs from the dataset.
 ![Galaxy Samples](./Images/Image%20Sample.png)
-
-### Training Performance
-![Training Accuracy and Loss](./Images/Model%20Accuracy%20and%20Loss.png)
-
-### Evaluation Metrics
-![Evaluation Metrics per Class](./Images/Evaluation%20Metrics%20per%20Class.png)
-
-### Model Comparison
-![ResNets vs Our Model](./Images/ResNets%20(Zhu%202019)%20Comparison%20%20.png)
 
 ---
 
-## 📊 Results
+### CNN Model Architecture
+Overview of the convolutional network used for classification.
+![CNN Model](./Images/CNN%20Model.png)
 
-Performance across galaxy classes:
+---
 
-| Class                | Accuracy | Precision | Recall | F1    | AUC   |
-| -------------------- | -------- | --------- | ------ | ----- | ----- |
-| Clockwise Spiral     | 98.9%    | 0.937     | 0.989  | 0.962 | 0.996 |
-| Anticlockwise Spiral | 98.3%    | 0.938     | 0.983  | 0.960 | 0.995 |
-| Disk                 | 97.8%    | 0.945     | 0.978  | 0.961 | 0.999 |
-| Merger               | 97.3%    | 0.902     | 0.973  | 0.936 | 0.997 |
-| Elliptical           | 86.2%    | 0.818     | 0.862  | 0.839 | 0.990 |
-| Edge-on              | 90.5%    | 0.777     | 0.905  | 0.836 | 0.987 |
+### Training Performance
+Accuracy and loss curves during training.
+![Training Accuracy and Loss](./Images/Model%20Accuracy%20and%20Loss.png)
 
-⚡ Global accuracy (8 classes): **81.8%**
-⚡ Average accuracy (6 well-defined classes): **94.8%**
+---
+
+### Evaluation Metrics
+Per-class precision, recall, F1, accuracy, and AUC.
+![Evaluation Metrics per Class](./Images/Evaluation%20Metrics%20per%20Class.png)
+
+---
+
+### Model Comparison
+Performance compared with Zhu et al. (2019).
+![ResNets vs Our Model](./Images/ResNets%20(Zhu%202019)%20Comparison%20%20.png)
 
 ---
 
