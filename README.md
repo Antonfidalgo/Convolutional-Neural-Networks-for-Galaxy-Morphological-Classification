@@ -111,31 +111,31 @@ scikit-learn
 ## 🖼 Visualizations
 
 ### Galaxy Samples
-Example inputs from the dataset.
+Example inputs from the dataset:
 ![Galaxy Samples](./Images/Image%20Sample.png)
 
 ---
 
 ### CNN Model Architecture
-Overview of the convolutional network used for classification.
+Overview of the convolutional network used for classification:
 ![CNN Model](./Images/CNN%20Model.png)
 
 ---
 
 ### Training Performance
-Accuracy and loss curves during training.
+Accuracy and loss curves during training:
 ![Training Accuracy and Loss](./Images/Model%20Accuracy%20and%20Loss.png)
 
 ---
 
 ### Evaluation Metrics
-Per-class precision, recall, F1, accuracy, and AUC.
+Per-class precision, recall, F1, accuracy, and AUC:
 ![Evaluation Metrics per Class](./Images/Evaluation%20Metrics%20per%20Class.png)
 
 ---
 
 ### Model Comparison
-Performance compared with Zhu et al. (2019).
+Performance compared with Zhu et al. (2019):
 ![ResNets vs Our Model](./Images/ResNets%20(Zhu%202019)%20Comparison%20%20.png)
 
 ---
@@ -177,4 +177,9 @@ Inditex Netherlands
 💼 [LinkedIn Profile](https://www.linkedin.com/in/antonfidalgo)
 
 🔗 [GitHub Profile](https://github.com/Antonfidalgo)
-```
+
+---
+
+<p align="center">
+  <img src="./Images/Galaxy%20Design.png" alt="Galaxy Morphology Diagram" width="400"/>
+</p>
