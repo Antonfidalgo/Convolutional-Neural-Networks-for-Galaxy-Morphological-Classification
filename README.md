@@ -10,8 +10,7 @@ The aim is to automate a traditionally manual process, improving **accuracy, sca
 
 ## 📖 Abstract
 
-Since the dawn of humanity, we have shown a timeless fascination with the heavens, seeking to understand the universe that surrounds us.  
-In today’s age of **data-intensive science**, the study of galaxy morphology plays a fundamental role in astrophysics.  
+Since the dawn of humanity, we have shown a timeless fascination with the heavens, seeking to understand the universe that surrounds us. In today’s age of **data-intensive science**, the study of galaxy morphology plays a fundamental role in astrophysics.  
 
 The objective of this thesis is to apply **Convolutional Neural Networks (CNNs)** to galaxy morphological classification. A mathematical and computational approach is developed to enhance the **accuracy, scalability, and automation** of this task, traditionally performed manually.
 
@@ -107,7 +106,6 @@ scikit-learn
 5. **Evaluation**
 
    * Metrics: Accuracy, F1, Precision, Recall, ROC-AUC
-   * Confusion matrix analysis
    * Tests for robustness under image rotations
 ---
 
@@ -182,8 +180,6 @@ If you use this work, please cite:
 Mathematician & Data Analyst
 
 Vrije Universiteit Amsterdam
-
-Inditex Netherlands
 
 📧 antonfidalgoperez@gmail.com
 
