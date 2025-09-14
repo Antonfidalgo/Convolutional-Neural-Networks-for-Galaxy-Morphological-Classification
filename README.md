@@ -106,6 +106,24 @@ scikit-learn
    * Metrics: Accuracy, F1, Precision, Recall, ROC-AUC
    * Confusion matrix analysis
    * Tests for robustness under image rotations
+---
+
+## 🖼 Visualizations
+
+### CNN Model Architecture
+![CNN Model](./Images/CNN%20Model.png)
+
+### Galaxy Samples
+![Galaxy Samples](./Images/Image%20Sample.png)
+
+### Training Performance
+![Training Accuracy and Loss](./Images/Model%20Accuracy%20and%20Loss.png)
+
+### Evaluation Metrics
+![Evaluation Metrics per Class](./Images/Evaluation%20Metrics%20per%20Class.png)
+
+### Model Comparison
+![ResNets vs Our Model](./Images/ResNets%20(Zhu%202019)%20Comparison%20%20.png)
 
 ---
 
