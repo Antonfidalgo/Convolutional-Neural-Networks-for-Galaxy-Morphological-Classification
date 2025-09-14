@@ -29,16 +29,18 @@ This work aims to contribute a complementary tool for the astronomical community
 ---
 
 ## 📂 Repository Structure
-```
 
+```
 .
+├── Images/                           # Visual assets and diagrams
 ├── Thesis.pdf                        # Full thesis document
 ├── Thesis CNN.ipynb                  # Main Jupyter Notebook (code & results)
 ├── Requirements.txt                  # Dependencies
-└── README.md                         # This file
+├── LICENSE                           # MIT for code; CC BY-NC for thesis
+├── README.md                         # This file
+└── Presentation Thesis.pptx          # Project presentation
 
 ````
-
 ---
 
 ## ⚙️ Requirements & Setup
