@@ -1,6 +1,7 @@
 # 🌌 Convolutional Neural Networks for Galaxy Morphological Classification
 
 Welcome to the repository of my **Bachelor Thesis** at **Vrije Universiteit Amsterdam (Department of Mathematics)**.  
+
 This work applies **Convolutional Neural Networks (CNNs)** to the classification of galaxy morphology using astronomical imaging data.
 
 The aim is to automate a traditionally manual process, improving **accuracy, scalability, and reproducibility**, and to provide tools that support the astronomical community in analyzing the massive datasets produced by modern sky surveys.
