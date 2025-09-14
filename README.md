@@ -113,31 +113,41 @@ scikit-learn
 
 ### Galaxy Samples
 Example inputs from the dataset:
-![Galaxy Samples](./Images/Image%20Sample.png)
+<p align="center">
+  <img src="./Images/Image%20Sample.png" alt="Galaxy Samples" width="500"/>
+</p>
 
 ---
 
 ### CNN Model Architecture
 Overview of the convolutional network used for classification:
-![CNN Model](./Images/CNN%20Model.png)
+<p align="center">
+  <img src="./Images/CNN%20Model.png" alt="CNN Model" width="500"/>
+</p>
 
 ---
 
 ### Training Performance
 Accuracy and loss curves during training:
-![Training Accuracy and Loss](./Images/Model%20Accuracy%20and%20Loss.png)
+<p align="center">
+  <img src="./Images/Model%20Accuracy%20and%20Loss.png" alt="Training Curves" width="500"/>
+</p>
 
 ---
 
 ### Evaluation Metrics
 Per-class precision, recall, F1, accuracy, and AUC:
-![Evaluation Metrics per Class](./Images/Evaluation%20Metrics%20per%20Class.png)
+<p align="center">
+  <img src="./Images/Evaluation%20Metrics%20per%20Class.png" alt="Evaluation Metrics" width="500"/>
+</p>
 
 ---
 
 ### Model Comparison
 Performance compared with Zhu et al. (2019):
-![ResNets vs Our Model](./Images/ResNets%20(Zhu%202019)%20Comparison%20%20.png)
+<p align="center">
+  <img src="./Images/ResNets%20(Zhu%202019)%20Comparison%20%20.png" alt="Model Comparison" width="500"/>
+</p>
 
 ---
 
