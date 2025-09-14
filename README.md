@@ -164,5 +164,4 @@ Inditex Netherlands
 💼 [LinkedIn Profile](https://www.linkedin.com/in/antonfidalgo)
 
 🔗 [GitHub Profile](https://github.com/Antonfidalgo)
-
 ```
